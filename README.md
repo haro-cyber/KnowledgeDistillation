@@ -23,6 +23,7 @@ Will likely to be better than a single teacher. However the diversity of the mul
 * Numpy 1.18.1
 * Matplotlib 3.1.3
 * Pandas 1.0.1
+* Scipy 1.4.1
 * Sklearn 0.22.1
 * Tensorflow 2.1.0
  
@@ -34,6 +35,7 @@ If using Google Colaboratory, then no needs of installations.
 pip install numpy
 pip install matplotlib
 pip install pandas
+pip install scipy
 pip install scikit-learn
 pip install tensorflow
 ```
