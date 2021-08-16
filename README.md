@@ -20,10 +20,10 @@ will likely to be better than a single teacher. However the diversity of the mul
 # Requirement
  
 * Python 3.7.6
-* numpy 1.18.1
-* matplotlib 3.1.3
-* sklearn 0.22.1
-* tensorflow 2.1.0
+* Numpy 1.18.1
+* Matplotlib 3.1.3
+* Sklearn 0.22.1
+* Tensorflow 2.1.0
  
 # Installation
  
