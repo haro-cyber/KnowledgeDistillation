@@ -27,7 +27,7 @@ will likely to be better than a single teacher. However the diversity of the mul
  
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
+If using Google Colaboratory, then no needs of installations.
  
 ```bash
 pip install numpy
@@ -39,6 +39,7 @@ pip install tensorflow
 # Usage
  
 Run at JupyterLab, Google Colaboratory, etc.
+Needs to run from the first row.
  
 # Note
 
