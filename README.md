@@ -53,4 +53,3 @@ Needs to run from the first row.
 * Ryotaro Hasegawa
 * Rikkyo University
  
-# License
