@@ -5,16 +5,16 @@ Distilling knowledge from teacher CNN to student CNN.
 ![kd_figure2](https://user-images.githubusercontent.com/65751048/129522599-0a34fcbc-1a21-4a62-ba16-98f60f346da8.png)
  
 ## basic Knowledge Distillation
-single teacher to student.
+Single teacher to student.
 
-loss function using KL-Divergence or Categorical Crossentropy for soft targets.
+Loss function using KL-Divergence or Categorical Crossentropy for soft targets.
 
 The accuracy/loss of distilled student CNN will be closer to the Teacher CNN.
 
 ## ensemble Knowledge Distillation
-multiple teachers and a single student.
+Multiple teachers and a single student.
 
-will likely to be better than a single teacher. However the diversity of the multiple teachers will be ignored by the soft ensemble when it becomes the soft targets.
+Will likely to be better than a single teacher. However the diversity of the multiple teachers will be ignored by the soft ensemble when it becomes the soft targets.
 
  
 # Requirement
