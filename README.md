@@ -30,6 +30,7 @@ Will likely to be better than a single teacher. However the diversity of the mul
 # Installation
  
 If using Google Colaboratory, then no needs of installations.
+Use conda command for anaconda environment.
  
 ```bash
 pip install numpy
