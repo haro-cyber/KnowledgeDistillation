@@ -20,6 +20,9 @@ will likely to be better than a single teacher. However the diversity of the mul
 # Requirement
  
 * Python 3.7.6
+* numpy 1.18.1
+* matplotlib 3.1.3
+* sklearn 0.22.1
 * tensorflow 2.1.0
  
 # Installation
@@ -27,26 +30,22 @@ will likely to be better than a single teacher. However the diversity of the mul
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
 ```bash
-pip install --upgrade tensorflow
+pip install numpy
+pip install matplotlib
+pip install scikit-learn
+pip install tensorflow
 ```
  
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+Run at JupyterLab, Google Colaboratory, etc.
  
 # Note
 
 参考論文arxiv: https://arxiv.org/abs/1503.02531
+参考コード：瀧雅人准教授
  
 # Author
- 
-作成情報を列挙する
  
 * Ryotaro Hasegawa
 * Rikkyo University
