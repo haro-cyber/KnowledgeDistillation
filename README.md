@@ -46,7 +46,8 @@ Needs to run from the first row.
 # Note
 
 参考論文arxiv: https://arxiv.org/abs/1503.02531
-参考コード：瀧雅人准教授
+参考コード(distillation)：瀧雅人准教授
+参考コード(ensemble)：https://qiita.com/koshian2/items/d569cd71b0e082111962
  
 # Author
  
